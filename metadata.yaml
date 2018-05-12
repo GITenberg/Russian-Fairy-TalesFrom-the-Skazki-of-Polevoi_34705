@@ -1,0 +1,56 @@
+_repo: Russian-Fairy-TalesFrom-the-Skazki-of-Polevoi_34705
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gere, Charles M. (Charles March)
+    alias: Gere, C. M. (Charles March)
+    birthdate: 1869
+    deathdate: 1957
+    gutenberg_agent_id: '37178'
+    url: http://www.gutenberg.org/2009/agents/37178
+  translator:
+    agent_name: Bain, R. Nisbet (Robert Nisbet)
+    alias: Bain, Robert Nisbet
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '5096'
+    url: http://www.gutenberg.org/2009/agents/5096
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Polevoi, P. (Petr)
+    aliases:
+    - Polevoi, Petr
+    - Полевой, П. (Петр)
+    - Polevoi, P. N. (Petr Nikolaevich)
+    birthdate: 1839
+    deathdate: 1902
+    gutenberg_agent_id: '35136'
+    url: http://www.gutenberg.org/2009/agents/35136
+description: ''
+gutenberg_issued: '2010-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34705'
+  lccn: '41033263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Russia'
+- !lcsh 'Fairy tales -- Russia'
+- !lcc 'PZ'
+tableOfContents: The golden mountain -- Morozko -- The flying ship -- The Muzhichek-as-big-as-your-thumb-with-moustaches-seven-versts-long
+  -- The story of the Tsarevich Ivan, and of the harp that harped without a harper
+  -- The story of Gore-Gorinskoe -- Go I know not whither; fetch I know not what --
+  Kuz’ma Skorobogaty -- The Tsarevna Loveliness-Inexhaustible -- Verlioka -- The frog-Tsarevna
+  -- The two sons of Ivan the soldier -- The woman-accuser -- Thomas Berennikov --
+  The white duck -- The tale of little fool Ivan -- The little feather of Fenist the
+  bright falcon -- The tale of the peasant Demyan -- The enchanted ring -- The brave
+  labourer -- The sage damsel -- The prophetic dream -- Two out of the knapsack --
+  The story of Marko the Rich and Vasily the Luckless.
+title: Russian Fairy Tales from the Skazki of Polevoi
+url: http://www.gutenberg.org/ebooks/34705
